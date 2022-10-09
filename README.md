@@ -1,3 +1,6 @@
+# Forked Repository
+
+Gradle 7 버전 이후 호환성을 위해 라이브러리 Forked.
 
 # React-Native-Local-Resource
 
